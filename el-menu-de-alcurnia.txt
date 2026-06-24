@@ -1,0 +1,22 @@
+historias.txt Historieta Corta: El Menú de Alcurnia
+Personaje: Changolfo (animado en SadTalker)
+
+Tono: Cínico, descarado y con voz de arrastrado.
+
+(0:00 - 0:15) INTRODUCCIÓN ATREVIDA
+(Aparece Changolfo a cuadro, rascándose la cabeza y viendo fijamente al espectador)
+¡Qué onda, raza! No, hombre... de veras que ya no aguantan nada. Ayer andaba yo ocupado, atendiendo mis asuntos de alta relevancia... bueno, la verdad andaba de vago, para qué les echo mentiras. El chiste es que llegué a la casa ya bien entrada la noche, con la tripa tocando la marcha fúnebre y el colmillo retorcido de tanta hambre.
+
+(0:15 - 0:35) EL RECLAMO KOSHER
+Y ahí me ven, exigiéndole a mi Compadre mi cena fina. Le dije: "A ver, Compadre, ¿qué hay de cenar? Pero que sea comida Kosher, de esa de alcurnia, porque mi estómago es de paladar negro". ¡Nombre! Al Compadre se le subió la bilirrubina, peló los ojos y me cantó la cartilla derecho: "Mira, Changolfo, de seguir así, te vas a conformar con lo que echamos a la fregadura".
+
+(0:35 - 0:50) EL MANOTAZO REMEDIAL
+Yo me quedé estático, analizando la situación... procesando el menú. En eso, ¡pácatelas!, que me suelta un manotazo en la espalda para que me destrabara el sistema. ¡Mano de santo! Hasta escupí las ideas. Y yo, muy despreocupado, le dije: "Al cabo que ni sé qué es Kosher, Compadre... y la verdad, con la solitaria que traigo adentro, lo de la fregadura me va a saber rebien".
+
+(0:50 - 1:10) EL REMATE CÍNICO
+Al final, el Compadre tiene buen corazón y me dijo: "Bueno, ya, sírvete tú mismo y siéntate, que yo no soy tu mesero". ¡Uuuuh, no aguantan nada! Pero cené bien sabroso. Eso sí, ya me enteré de que me quiere mandar con el Toño o con el Trump a que me disciplinen... ¡Qué esperanza! Si el Trump me ve, me contrata de asesor. ¡Ay nos vemos, raza, dejen ver si ya hay recalentado!
+
+Ajustes Técnicos para la Producción:
+Audio: Cuando grabe la voz (o use el clon), dele pausas marcadas en los chistes (como en el "¡pácatelas!" del manotazo) para que el SadTalker mueva la cara con más impacto en los remates.
+
+Duración: Leyéndolo a ritmo normal, con los silencios cómicos, te da exactamente entre 1 minuto y 1 minuto y 10 segundos. ¡Perfecto para Reels o TikTok!
